@@ -58,10 +58,34 @@
     <Compile Include="Lab4_Bai01.Designer.cs">
       <DependentUpon>Lab4_Bai01.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lab4_Bai02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab4_Bai02.Designer.cs">
+      <DependentUpon>Lab4_Bai02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab4_Bai03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab4_Bai03.Designer.cs">
+      <DependentUpon>Lab4_Bai03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab4_Bai04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab4_Bai04.Designer.cs">
+      <DependentUpon>Lab4_Bai04.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Lab4_Bai01.resx">
       <DependentUpon>Lab4_Bai01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab4_Bai02.resx">
+      <DependentUpon>Lab4_Bai02.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
