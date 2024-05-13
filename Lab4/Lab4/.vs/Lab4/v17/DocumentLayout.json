@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C77E01-C76E-4DC8-9A5C-C7D989F626A9}|Lab4\\Lab4.csproj|d:\\uit\\namhaihk2\\ltmcb\\th\\lab4\\lab4\\lab4\\lab4_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37C77E01-C76E-4DC8-9A5C-C7D989F626A9}|Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C77E01-C76E-4DC8-9A5C-C7D989F626A9}|Lab4\\Lab4.csproj|d:\\uit\\namhaihk2\\ltmcb\\th\\lab4\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C77E01-C76E-4DC8-9A5C-C7D989F626A9}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C77E01-C76E-4DC8-9A5C-C7D989F626A9}|Lab4\\Lab4.csproj|d:\\uit\\namhaihk2\\ltmcb\\th\\lab4\\lab4\\lab4\\lab4_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C77E01-C76E-4DC8-9A5C-C7D989F626A9}|Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:18:39.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab4_Bai01.cs",
+              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\Lab4\\Lab4_Bai01.cs",
+              "RelativeDocumentMoniker": "Lab4\\Lab4_Bai01.cs",
+              "ToolTip": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\Lab4\\Lab4_Bai01.cs*",
+              "RelativeToolTip": "Lab4\\Lab4_Bai01.cs*",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvygAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:16:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab4_Bai01.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\Lab4\\Lab4_Bai01.cs",
+              "RelativeDocumentMoniker": "Lab4\\Lab4_Bai01.cs",
+              "ToolTip": "D:\\UIT\\NamHaiHK2\\LTMCB\\TH\\Lab4\\Lab4\\Lab4\\Lab4_Bai01.cs [Design]*",
+              "RelativeToolTip": "Lab4\\Lab4_Bai01.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:15:11.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
