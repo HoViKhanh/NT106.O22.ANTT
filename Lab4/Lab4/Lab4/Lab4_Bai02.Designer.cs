@@ -55,9 +55,9 @@
             // btnPost
             // 
             this.btnPost.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPost.Location = new System.Drawing.Point(659, 24);
+            this.btnPost.Location = new System.Drawing.Point(672, 12);
             this.btnPost.Name = "btnPost";
-            this.btnPost.Size = new System.Drawing.Size(116, 48);
+            this.btnPost.Size = new System.Drawing.Size(116, 34);
             this.btnPost.TabIndex = 2;
             this.btnPost.Text = "POST";
             this.btnPost.UseVisualStyleBackColor = true;
