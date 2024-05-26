@@ -2,15 +2,8 @@
 {
     partial class Lab4_Bai02
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,35 +15,29 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tb_url = new System.Windows.Forms.TextBox();
+            this.tb_ = new System.Windows.Forms.TextBox();
             this.btnPost = new System.Windows.Forms.Button();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
-            // richTextBox1
+            // tb_url
             // 
-            this.richTextBox1.Font = new System.Drawing.Font("Calibri", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richTextBox1.Location = new System.Drawing.Point(12, 98);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(776, 340);
-            this.richTextBox1.TabIndex = 0;
-            this.richTextBox1.Text = "";
+            this.tb_url.Location = new System.Drawing.Point(12, 12);
+            this.tb_url.Multiline = true;
+            this.tb_url.Name = "tb_url";
+            this.tb_url.Size = new System.Drawing.Size(616, 34);
+            this.tb_url.TabIndex = 5;
             // 
-            // textBox1
+            // tb_
             // 
-            this.textBox1.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(12, 12);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(616, 34);
-            this.textBox1.TabIndex = 1;
+            this.tb_.Location = new System.Drawing.Point(12, 52);
+            this.tb_.Multiline = true;
+            this.tb_.Name = "tb_";
+            this.tb_.Size = new System.Drawing.Size(616, 34);
+            this.tb_.TabIndex = 7;
             // 
             // btnPost
             // 
@@ -59,30 +46,26 @@
             this.btnPost.Name = "btnPost";
             this.btnPost.Size = new System.Drawing.Size(116, 34);
             this.btnPost.TabIndex = 2;
-            this.btnPost.Text = "POST";
+            this.btnPost.Text = "Post";
             this.btnPost.UseVisualStyleBackColor = true;
             this.btnPost.Click += new System.EventHandler(this.btnPost_Click);
             // 
-            // textBox2
+            // richTextBox1
             // 
-            this.textBox2.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(12, 52);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(616, 34);
-            this.textBox2.TabIndex = 3;
+            this.richTextBox1.Location = new System.Drawing.Point(12, 93);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(776, 340);
+            this.richTextBox1.TabIndex = 3;
+            this.richTextBox1.Text = "";
             // 
             // Lab4_Bai02
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.btnPost);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.btnPost);
+            this.Controls.Add(this.tb_);
+            this.Controls.Add(this.tb_url);
             this.Name = "Lab4_Bai02";
-            this.Text = "Lab4_Bai02";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -90,9 +73,9 @@
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox tb_url;
+        private System.Windows.Forms.TextBox tb_;
         private System.Windows.Forms.Button btnPost;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

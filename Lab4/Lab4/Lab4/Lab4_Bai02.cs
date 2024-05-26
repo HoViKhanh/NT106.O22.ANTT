@@ -11,6 +11,7 @@ using System.Windows.Forms;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.IO;
+using System.Security.Policy;
 
 namespace Lab4
 {
@@ -23,37 +24,42 @@ namespace Lab4
 
         private void btnPost_Click(object sender, EventArgs e)
         {
-            string Url = textBox1.Text;
-            string postData = textBox2.Text;
+            richTextBox1.Clear();
+            try
+            {
+                if (!tb_url.Text.StartsWith("http://"))
+                    tb_url.Text = tb_url.Text.Insert(0, "http://");
 
-            string responseContent = postRequest(Url, postData);
-            richTextBox1.Text = responseContent;
+                richTextBox1.AppendText(postRequest(tb_url.Text.Trim(), tb_.Text.Trim()));
+            }
+            catch (Exception ex) { richTextBox1.AppendText(ex.Message); }
 
         }
         private string postRequest(string szURL, string postData)
         {
-            // Create a web request for the given URL
-            WebRequest request = WebRequest.Create(szURL);
+            var byteArray = Encoding.UTF8.GetBytes(postData);
+
+            var request = WebRequest.Create(szURL);
             request.Method = "POST";
-
-            // Set the ContentType property
-            request.ContentType = "application/x-www-form-urlencoded";
-            // Convert the postData string to a byte array.
-            byte[] byteArray = Encoding.UTF8.GetBytes(postData);
             request.ContentLength = byteArray.Length;
+            request.ContentType = "application/x-www-form-urlencoded";
 
-            // Write data to the request stream
-            using (Stream dataStream = request.GetRequestStream())
+            using (var requestStream = request.GetRequestStream())
             {
-                dataStream.Write(byteArray, 0, byteArray.Length);
+                requestStream.Write(byteArray, 0, byteArray.Length);
             }
 
-            // Get the response and read the response stream
-            using (WebResponse response = request.GetResponse())
+            using (var response = request.GetResponse())
             {
-                using (StreamReader reader = new StreamReader(response.GetResponseStream()))
+                using (var responseStream = response.GetResponseStream())
                 {
-                    return reader.ReadToEnd(); // Read and return the response
+                    if (responseStream == null)
+                        throw new Exception("Null response stream");
+
+                    using (var reader = new StreamReader(responseStream))
+                    {
+                        return reader.ReadToEnd();
+                    }
                 }
             }
         }

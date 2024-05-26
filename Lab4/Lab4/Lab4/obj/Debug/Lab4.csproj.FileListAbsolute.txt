@@ -10,3 +10,4 @@ D:\UIT\NamHaiHK2\LTMCB\TH\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
 D:\UIT\NamHaiHK2\LTMCB\TH\Lab4\Lab4\Lab4\obj\Debug\Lab4.Lab4_Bai01.resources
 D:\UIT\NamHaiHK2\LTMCB\TH\Lab4\Lab4\Lab4\obj\Debug\Lab4.Home.resources
 D:\UIT\NamHaiHK2\LTMCB\TH\Lab4\Lab4\Lab4\obj\Debug\Lab4.Lab4_Bai02.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\Lab4\Lab4\Lab4\obj\Debug\Lab4.Lab4_Bai03.resources
