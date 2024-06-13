@@ -1,0 +1,118 @@
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MailKit.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MimeKit.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MailKit.pdb
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._2.resources
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+D:\Mon hoc\HK4\LTM\TH\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._3.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._2.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._3.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MailKit.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MimeKit.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MailKit.pdb
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MailKit.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MimeKit.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.b4.resources
+E:\Download\aaa\WindowsFormsApp1 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sendmail.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MailKit.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MimeKit.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MailKit.pdb
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._2.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._3.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.b4.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sendmail.resources
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\UIT\NamHaiHK2\LTMCB\TH\lab5.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
