@@ -1,0 +1,12 @@
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\bin\Debug\Drawing.exe.config
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\bin\Debug\Drawing.exe
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\bin\Debug\Drawing.pdb
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.Client.resources
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.Home.resources
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.Server.resources
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.exe
+D:\UIT\HK4\LTMCB\TH\lab6\Drawing\Drawing\obj\Debug\Drawing.pdb

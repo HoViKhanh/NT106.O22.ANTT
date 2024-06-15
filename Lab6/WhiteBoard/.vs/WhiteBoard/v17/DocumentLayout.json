@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Color.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Color.cs",
+              "RelativeDocumentMoniker": "Drawing\\Color.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Color.cs [Design]",
+              "RelativeToolTip": "Drawing\\Color.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:10:30.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs",
+              "RelativeDocumentMoniker": "Drawing\\Client.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs",
+              "RelativeToolTip": "Drawing\\Client.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:08:20.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs",
+              "RelativeDocumentMoniker": "Drawing\\Home.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs",
+              "RelativeToolTip": "Drawing\\Home.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:47:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Program.cs",
+              "RelativeDocumentMoniker": "Drawing\\Program.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Program.cs",
+              "RelativeToolTip": "Drawing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:45:51.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs",
+              "RelativeDocumentMoniker": "Drawing\\Client.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs [Design]",
+              "RelativeToolTip": "Drawing\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:45:48.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Server.cs",
+              "RelativeDocumentMoniker": "Drawing\\Server.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Server.cs [Design]",
+              "RelativeToolTip": "Drawing\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:45:36.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs",
+              "RelativeDocumentMoniker": "Drawing\\Home.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs [Design]",
+              "RelativeToolTip": "Drawing\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:45:21.653Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
