@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\",
+  "WorkspaceRootPath": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\nt106.o22.antt\\lab6\\whiteboard\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\nt106.o22.antt\\lab6\\whiteboard\\drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\nt106.o22.antt\\lab6\\whiteboard\\drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\nt106.o22.antt\\lab6\\whiteboard\\drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\nt106.o22.antt\\lab6\\whiteboard\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Whiteboard.csproj|solutionrelative:drawing\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|d:\\uit\\hk4\\ltmcb\\th\\lab6\\drawing\\drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AFAAD1F-BFC8-48DE-9290-A0908161CB25}|Drawing\\Drawing.csproj|solutionrelative:drawing\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,25 +66,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Color.cs [Design]",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Color.cs",
-              "RelativeDocumentMoniker": "Drawing\\Color.cs",
-              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Color.cs [Design]",
-              "RelativeToolTip": "Drawing\\Color.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Client.cs",
+              "RelativeDocumentMoniker": "Drawing\\Client.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Client.cs [Design]",
+              "RelativeToolTip": "Drawing\\Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T17:10:30.049Z",
+              "WhenOpened": "2024-06-22T13:40:54.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Program.cs",
+              "RelativeDocumentMoniker": "Drawing\\Program.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Program.cs",
+              "RelativeToolTip": "Drawing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:40:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Server.cs",
+              "RelativeDocumentMoniker": "Drawing\\Server.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Server.cs",
+              "RelativeToolTip": "Drawing\\Server.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwE0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:39:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Server.cs",
+              "RelativeDocumentMoniker": "Drawing\\Server.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Server.cs [Design]",
+              "RelativeToolTip": "Drawing\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:38:54.757Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Client.cs",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Client.cs",
               "RelativeDocumentMoniker": "Drawing\\Client.cs",
-              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Client.cs",
               "RelativeToolTip": "Drawing\\Client.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T17:08:20.664Z",
               "EditorCaption": ""
@@ -80,64 +130,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Home.cs",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs",
-              "RelativeDocumentMoniker": "Drawing\\Home.cs",
-              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs",
-              "RelativeToolTip": "Drawing\\Home.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:47:11.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Program.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Program.cs",
               "RelativeDocumentMoniker": "Drawing\\Program.cs",
-              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Program.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Program.cs",
               "RelativeToolTip": "Drawing\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:45:51.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T16:45:51.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs [Design]",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs",
-              "RelativeDocumentMoniker": "Drawing\\Client.cs",
-              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs [Design]",
-              "RelativeToolTip": "Drawing\\Client.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Home.cs",
+              "RelativeDocumentMoniker": "Drawing\\Home.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Home.cs",
+              "RelativeToolTip": "Drawing\\Home.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:45:48.89Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Server.cs [Design]",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Server.cs",
-              "RelativeDocumentMoniker": "Drawing\\Server.cs",
-              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Server.cs [Design]",
-              "RelativeToolTip": "Drawing\\Server.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:45:36.364Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-15T16:47:11.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Client.cs",
+              "RelativeDocumentMoniker": "Drawing\\Client.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Client.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\lab6\\Drawing\\Drawing\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:45:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Server.cs",
+              "RelativeDocumentMoniker": "Drawing\\Server.cs",
+              "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Server.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\lab6\\Drawing\\Drawing\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:45:36.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs",
+              "DocumentMoniker": "D:\\UIT\\HK4\\LTMCB\\TH\\NT106.O22.ANTT\\Lab6\\WhiteBoard\\Drawing\\Home.cs",
               "RelativeDocumentMoniker": "Drawing\\Home.cs",
               "ToolTip": "D:\\UIT\\HK4\\LTMCB\\TH\\lab6\\Drawing\\Drawing\\Home.cs [Design]",
-              "RelativeToolTip": "Drawing\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\lab6\\Drawing\\Drawing\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:45:21.653Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-15T16:45:21.653Z"
             }
           ]
         }
