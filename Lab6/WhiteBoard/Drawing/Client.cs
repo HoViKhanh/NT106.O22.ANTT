@@ -6,6 +6,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Net.Sockets;
+using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -179,6 +180,44 @@ namespace Drawing
         private void trackBar_penWidth_ValueChanged(object sender, EventArgs e)
         {
             currentPen.Width = trackBar_penWidth.Value;
+        }
+
+        private void btn_image_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.gif;*.bmp";
+                openFileDialog.Title = "Chọn ảnh để chèn";
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        // Đọc tệp ảnh và hiển thị lên PictureBox
+                        Image image = Image.FromFile(openFileDialog.FileName);
+                        g.DrawImage(image, 5, 5);
+                        SendImageData(image);
+
+                        // Có thể thêm code để gửi ảnh này đến server nếu cần
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Không thể mở ảnh: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
+        private void SendImageData(Image image)
+        {
+            MemoryStream ms = new MemoryStream();
+            image.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+            byte[] data = ms.ToArray();
+            ms = new MemoryStream();
+            BinaryWriter bw = new BinaryWriter(ms);
+            bw.Write(data.Length);
+            bw.Write(data);
+            byte[] buffer = ms.ToArray();
+            serverStream.Write(buffer, 0, buffer.Length);
         }
     }
 }

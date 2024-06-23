@@ -57,6 +57,7 @@
             this.btn_image.TabIndex = 1;
             this.btn_image.Text = "Insert Image";
             this.btn_image.UseVisualStyleBackColor = false;
+            this.btn_image.Click += new System.EventHandler(this.btn_image_Click);
             // 
             // btn_end
             // 
