@@ -68,7 +68,7 @@
             this.btn_end.TabIndex = 2;
             this.btn_end.Text = "End";
             this.btn_end.UseVisualStyleBackColor = false;
-            
+            this.btn_end.Click += new System.EventHandler(this.btn_end_Click);
             // 
             // trackBar_penWidth
             // 
@@ -97,7 +97,6 @@
             this.Controls.Add(this.btn_end);
             this.Controls.Add(this.btn_image);
             this.Controls.Add(this.btn_color);
-            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Name = "Client";
             this.Text = "Client";
             ((System.ComponentModel.ISupportInitialize)(this.trackBar_penWidth)).EndInit();

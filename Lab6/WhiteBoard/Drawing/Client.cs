@@ -23,9 +23,14 @@ namespace Drawing
         private Point previousPoint;
         private Pen currentPen;
 
+        private Bitmap offScreenBitmap;
+        private Graphics offScreenGraphics;
+
         public Client()
         {
             InitializeComponent();
+            offScreenBitmap = new Bitmap(board.Width, board.Height);
+            offScreenGraphics = Graphics.FromImage(offScreenBitmap);
             g = board.CreateGraphics();
             currentPen = new Pen(Color.Black, 2);
             ConnectToServer();
@@ -69,6 +74,7 @@ namespace Drawing
                     Invoke(new Action(() =>
                     {
                         g.DrawLine(pen, new Point(startX, startY), new Point(endX, endY));
+                        offScreenGraphics.DrawLine(pen, new Point(startX, startY), new Point(endX, endY));
                     }));
                 }
             }
@@ -101,6 +107,7 @@ namespace Drawing
             if (drawing)
             {
                 g.DrawLine(currentPen, previousPoint, e.Location);
+                offScreenGraphics.DrawLine(currentPen, previousPoint, e.Location);
                 SendDrawData(previousPoint, e.Location);
                 previousPoint = e.Location;
             }
@@ -122,11 +129,47 @@ namespace Drawing
 
         private void btn_end_Click(object sender, EventArgs e)
         {
-            Bitmap bitmap = new Bitmap(board.Width, board.Height);
-            board.DrawToBitmap(bitmap, new Rectangle(0, 0, board.Width, board.Height));
-            bitmap.Save("whiteboard.png", System.Drawing.Imaging.ImageFormat.Png);
-            clientSocket.Close();
-            this.Close();
-        }
+            using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+            {
+                saveFileDialog.Filter = "PNG Image|*.png";
+                saveFileDialog.Title = "Lưu bản vẽ";
+                saveFileDialog.InitialDirectory = @"C:\Users\MSI\Downloads"; // Tùy chọn: Đặt thư mục ban đầu
+
+                if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    // Lưu bitmap ngoài màn hình vào đường dẫn được chỉ định
+                    try
+                    {
+                        offScreenBitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Png);
+                        MessageBox.Show($"Ảnh đã được lưu thành công tại {saveFileDialog.FileName}", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Lưu ảnh thất bại: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    finally
+                    {
+                        // Giải phóng tài nguyên
+                        offScreenGraphics.Dispose();
+                        offScreenBitmap.Dispose();
+
+                        if (clientSocket != null)
+                        {
+                            clientSocket.Close();
+                            clientSocket = null;
+                        }
+
+                        if (clientThread != null)
+                        {
+                            clientThread.Abort();
+                            clientThread = null;
+                        }
+
+                        // Đóng form
+                        this.Close();
+                    }
+                }
+            }
+            }
     }
 }
