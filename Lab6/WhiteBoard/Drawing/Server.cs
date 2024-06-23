@@ -61,6 +61,7 @@ namespace Drawing
             Array.Copy(buffer, recBuf, received);
             string text = Encoding.ASCII.GetString(recBuf);
 
+            // Broadcast the received data to all clients
             foreach (Socket socket in clientSockets)
             {
                 if (socket != current)
@@ -71,6 +72,7 @@ namespace Drawing
 
             current.BeginReceive(buffer, 0, buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), current);
         }
+
         private void UpdateClientCount()
         {
             if (InvokeRequired)

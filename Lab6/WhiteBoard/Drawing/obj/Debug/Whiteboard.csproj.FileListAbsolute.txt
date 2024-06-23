@@ -27,3 +27,4 @@ D:\UIT\HK4\LTMCB\TH\NT106.O22.ANTT\Lab6\WhiteBoard\Drawing\bin\Debug\System.Draw
 D:\UIT\HK4\LTMCB\TH\NT106.O22.ANTT\Lab6\WhiteBoard\Drawing\bin\Debug\System.Drawing.Common.pdb
 D:\UIT\HK4\LTMCB\TH\NT106.O22.ANTT\Lab6\WhiteBoard\Drawing\bin\Debug\System.Drawing.Common.xml
 D:\UIT\HK4\LTMCB\TH\NT106.O22.ANTT\Lab6\WhiteBoard\Drawing\obj\Debug\Whiteboard.csproj.Up2Date
+D:\UIT\HK4\LTMCB\TH\NT106.O22.ANTT\Lab6\WhiteBoard\Drawing\obj\Debug\Drawing.Form1.resources

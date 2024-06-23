@@ -31,9 +31,9 @@
             this.btn_color = new System.Windows.Forms.Button();
             this.btn_image = new System.Windows.Forms.Button();
             this.btn_end = new System.Windows.Forms.Button();
-            this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.trackBar_penWidth = new System.Windows.Forms.TrackBar();
             this.board = new System.Windows.Forms.Panel();
-            ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trackBar_penWidth)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_color
@@ -68,13 +68,14 @@
             this.btn_end.TabIndex = 2;
             this.btn_end.Text = "End";
             this.btn_end.UseVisualStyleBackColor = false;
+            
             // 
-            // trackBar1
+            // trackBar_penWidth
             // 
-            this.trackBar1.Location = new System.Drawing.Point(495, 377);
-            this.trackBar1.Name = "trackBar1";
-            this.trackBar1.Size = new System.Drawing.Size(293, 56);
-            this.trackBar1.TabIndex = 3;
+            this.trackBar_penWidth.Location = new System.Drawing.Point(495, 377);
+            this.trackBar_penWidth.Name = "trackBar_penWidth";
+            this.trackBar_penWidth.Size = new System.Drawing.Size(293, 56);
+            this.trackBar_penWidth.TabIndex = 3;
             // 
             // board
             // 
@@ -92,13 +93,14 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.board);
-            this.Controls.Add(this.trackBar1);
+            this.Controls.Add(this.trackBar_penWidth);
             this.Controls.Add(this.btn_end);
             this.Controls.Add(this.btn_image);
             this.Controls.Add(this.btn_color);
+            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Name = "Client";
             this.Text = "Client";
-            ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trackBar_penWidth)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -109,7 +111,7 @@
         private System.Windows.Forms.Button btn_color;
         private System.Windows.Forms.Button btn_image;
         private System.Windows.Forms.Button btn_end;
-        private System.Windows.Forms.TrackBar trackBar1;
+        private System.Windows.Forms.TrackBar trackBar_penWidth;
         private System.Windows.Forms.Panel board;
     }
 }

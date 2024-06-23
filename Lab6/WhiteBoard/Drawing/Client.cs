@@ -1,24 +1,33 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Drawing;
+using System.IO;
+using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Drawing
 {
     public partial class Client : Form
     {
-        private Graphics graphics;
-        private Pen cursorPen = new Pen(Color.Black, 2);
-        private bool drawing = false;
         private TcpClient clientSocket = new TcpClient();
         private NetworkStream serverStream;
         private Thread clientThread;
+        private Graphics g;
+        private bool drawing = false;
+        private Point previousPoint;
+        private Pen currentPen;
 
         public Client()
         {
             InitializeComponent();
+            g = board.CreateGraphics();
+            currentPen = new Pen(Color.Black, 2);
             ConnectToServer();
         }
 
@@ -42,17 +51,24 @@ namespace Drawing
             while (true)
             {
                 byte[] inStream = new byte[clientSocket.ReceiveBufferSize];
-                serverStream.Read(inStream, 0, inStream.Length);
-                string returndata = Encoding.ASCII.GetString(inStream);
-                string[] tokens = returndata.Split(':');
-                if (tokens[0] == "DRAW")
+                int bytesRead = serverStream.Read(inStream, 0, inStream.Length);
+                if (bytesRead > 0)
                 {
-                    string[] coords = tokens[1].Split(',');
-                    int x = int.Parse(coords[0]);
-                    int y = int.Parse(coords[1]);
+                    MemoryStream ms = new MemoryStream(inStream, 0, bytesRead);
+                    BinaryReader br = new BinaryReader(ms);
+
+                    int startX = br.ReadInt32();
+                    int startY = br.ReadInt32();
+                    int endX = br.ReadInt32();
+                    int endY = br.ReadInt32();
+                    Color color = Color.FromArgb(br.ReadInt32());
+                    float width = br.ReadSingle();
+
+                    Pen pen = new Pen(color, width);
+
                     Invoke(new Action(() =>
                     {
-                        graphics.DrawEllipse(cursorPen, x, y, 2, 2);
+                        g.DrawLine(pen, new Point(startX, startY), new Point(endX, endY));
                     }));
                 }
             }
@@ -64,7 +80,7 @@ namespace Drawing
             {
                 if (colorDialog.ShowDialog() == DialogResult.OK)
                 {
-                    cursorPen.Color = colorDialog.Color;
+                    currentPen.Color = colorDialog.Color;
                 }
             }
         }
@@ -72,6 +88,7 @@ namespace Drawing
         private void board_MouseDown(object sender, MouseEventArgs e)
         {
             drawing = true;
+            previousPoint = e.Location;
         }
 
         private void board_MouseUp(object sender, MouseEventArgs e)
@@ -83,13 +100,33 @@ namespace Drawing
         {
             if (drawing)
             {
-                graphics = board.CreateGraphics();
-                graphics.DrawEllipse(cursorPen, e.X, e.Y, 2, 2);
-                string sendData = $"DRAW:{e.X},{e.Y}";
-                byte[] outStream = Encoding.ASCII.GetBytes(sendData);
-                serverStream.Write(outStream, 0, outStream.Length);
-                serverStream.Flush();
+                g.DrawLine(currentPen, previousPoint, e.Location);
+                SendDrawData(previousPoint, e.Location);
+                previousPoint = e.Location;
             }
+        }
+
+        private void SendDrawData(Point start, Point end)
+        {
+            MemoryStream ms = new MemoryStream();
+            BinaryWriter bw = new BinaryWriter(ms);
+            bw.Write(start.X);
+            bw.Write(start.Y);
+            bw.Write(end.X);
+            bw.Write(end.Y);
+            bw.Write(currentPen.Color.ToArgb());
+            bw.Write(currentPen.Width);
+            byte[] data = ms.ToArray();
+            serverStream.Write(data, 0, data.Length);
+        }
+
+        private void btn_end_Click(object sender, EventArgs e)
+        {
+            Bitmap bitmap = new Bitmap(board.Width, board.Height);
+            board.DrawToBitmap(bitmap, new Rectangle(0, 0, board.Width, board.Height));
+            bitmap.Save("whiteboard.png", System.Drawing.Imaging.ImageFormat.Png);
+            clientSocket.Close();
+            this.Close();
         }
     }
 }
