@@ -76,6 +76,7 @@
             this.trackBar_penWidth.Name = "trackBar_penWidth";
             this.trackBar_penWidth.Size = new System.Drawing.Size(293, 56);
             this.trackBar_penWidth.TabIndex = 3;
+            this.trackBar_penWidth.ValueChanged += new System.EventHandler(this.trackBar_penWidth_ValueChanged);
             // 
             // board
             // 

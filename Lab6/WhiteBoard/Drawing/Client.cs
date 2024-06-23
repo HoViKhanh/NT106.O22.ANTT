@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Drawing
 {
@@ -29,10 +30,12 @@ namespace Drawing
         public Client()
         {
             InitializeComponent();
+            trackBar_penWidth.ValueChanged += trackBar_penWidth_ValueChanged;
+            int boldPen = trackBar_penWidth.Value;
             offScreenBitmap = new Bitmap(board.Width, board.Height);
             offScreenGraphics = Graphics.FromImage(offScreenBitmap);
             g = board.CreateGraphics();
-            currentPen = new Pen(Color.Black, 2);
+            currentPen = new Pen(Color.Black, boldPen);
             ConnectToServer();
         }
 
@@ -89,6 +92,7 @@ namespace Drawing
                     currentPen.Color = colorDialog.Color;
                 }
             }
+            currentPen.Width = trackBar_penWidth.Value;
         }
 
         private void board_MouseDown(object sender, MouseEventArgs e)
@@ -171,5 +175,10 @@ namespace Drawing
                 }
             }
             }
+
+        private void trackBar_penWidth_ValueChanged(object sender, EventArgs e)
+        {
+            currentPen.Width = trackBar_penWidth.Value;
+        }
     }
 }
